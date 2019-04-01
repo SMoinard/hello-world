@@ -1,2 +1,3 @@
 dat <- c(1, 2, 3, 4, 5, 6)
 print(mean(dat))
+dat.sd <- sd(dat)
